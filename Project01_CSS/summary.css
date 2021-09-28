@@ -1,0 +1,14 @@
+div {
+	font: beige 14pt "Calibri";
+	text-align: center;
+	background-color: lightblue;
+}
+
+h1 {
+	font-size: 12pt;
+	text-decoration: underline;
+}
+
+ul {
+	list-style: none;
+}
