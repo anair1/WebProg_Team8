@@ -246,6 +246,15 @@ transform: rotateY(180deg);
     background-size: contain;
 }
 
+/* top left link(link to first player) */
+.player1{
+    position: absolute;
+    top: 10px;
+    left: 10%;
+    width: 5%;
+    height: 20%;
+}
+
 .right{
     position: absolute;
     top: 10px;
